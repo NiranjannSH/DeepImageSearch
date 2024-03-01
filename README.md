@@ -20,13 +20,13 @@ The training process provides detailed insights into the model's performance:
 
 - **Accuracy:** [95%]
 
-- 
-- **Classification Report:**
+  
+  
 - # Classification_Report
   ![Alt Text](ClassificationReport.png)
-# Classification_Report
 
-- **Confusion Matrix:**
+
+  
 - # confusion_Matrix
 ![Alt Text](ConfusionMatrix.png)
 
