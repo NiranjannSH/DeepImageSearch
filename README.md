@@ -10,8 +10,8 @@ This project utilizes the MobileNetV2 convolutional neural network architecture 
 ## Training Details
 
 - **Model Architecture:** MobileNetV2 CNN
-- **Dataset:**
-- The model was trained on a diverse dataset comprising 10 distinct classes, each representing different types of images. The training process, documented in the "train.ipynb" notebook, covers the utilization of the MobileNetV2 convolutional neural network architecture and includes insightful details such as accuracy metrics, a classification report, and a confusion matrix for thorough evaluation.
+- **Dataset Description:**
+The model was trained on a diverse dataset comprising 10 distinct classes, each representing different types of images. The training process, documented in the "train.ipynb" notebook, covers the utilization of the MobileNetV2 convolutional neural network architecture and includes insightful details such as accuracy metrics, a classification report, and a confusion matrix for thorough evaluation.
   
 
 ## Insights and Evaluation
